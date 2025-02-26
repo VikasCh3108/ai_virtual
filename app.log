@@ -1,0 +1,15 @@
+2025-02-26 12:57:50,249 - app.main - INFO - Received input: hello
+2025-02-26 12:57:50,257 - app.main - INFO - Processed intent: greeting, Response: Hello! How can I help you today?
+2025-02-26 12:58:23,427 - app.main - INFO - Received input: time
+2025-02-26 12:58:23,433 - app.main - INFO - Processed intent: time, Response: I am not connected to time service yet.
+2025-02-26 13:01:55,636 - app.main - INFO - Received input: tell me a joke
+2025-02-26 13:01:55,647 - app.main - INFO - Processed intent: joke, Response: Why did the scarecrow win an award? Because he was outstanding in his field!
+2025-02-26 13:02:05,878 - app.main - INFO - Received input: what can you do?
+2025-02-26 13:02:05,884 - app.main - INFO - Processed intent: help, Response: I can help you with several things:
+- Greet you and chat casually
+- Tell you the current time and date
+- Tell you jokes
+- Respond to questions about my mood or name
+- Say goodbye when you're leaving
+2025-02-26 13:02:15,230 - app.main - INFO - Received input: what time is it?
+2025-02-26 13:02:15,233 - app.main - INFO - Processed intent: time, Response: It's 01:02 PM on Wednesday, February 26, 2025
